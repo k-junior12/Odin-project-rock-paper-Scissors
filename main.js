@@ -40,7 +40,7 @@ function playerChoice() {
 }
 
 function computerChoice(){
-    //get random input from computer
+    //get random input from compute
     //floor rounds down an interger*
     return choices[Math.floor(Math.random()*choices.length)];
 }
